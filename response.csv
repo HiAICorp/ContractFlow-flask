@@ -1,0 +1,6 @@
+Practice,End_date,Buyer,Seller,Agreement,Geo,Contract_Type,MSA_date,Start_date,Expiring_60,Amount
+Enterprise IT,"July 31, 2020",Schneider Electric,"VENDOR F Global Partners, LLC",MSA dated 20th December 2018,USA,Time & Material,20th December 2018,01 July 2020,No,"46,800.00"
+Digital Customer Experience (DCX),15th July 2020,Schneider Electric,Vendor H Corporation,Master Services Agreement dated 01 July 2019,USA,Time & Material (Not-to-exceed),01 July 2019,15th May 2020,NULL,"212,185.00"
+Digital Customer Experience (DCX),15-07-2020,"Schneider Electric USA,  Inc.",Vendor H Corporation,Master Services Agreement,USA,Technology Consulting/ Engineering Services,01-07-2019,01-05-2020,No,"$ 212,185.00"
+Digital Customer Experience (DCX),15-07-2020,"Schneider Electric USA, Inc.",Vendor H Corporation,Master Services Agreement between Schneider Electric Industries SAS and Vendor H Limited and its 100% wholly owned subsidiary Vendor H,USA,Time & Material,01-07-2019,01-05-2020,NULL,212185
+Digital Customer Experience (DCX),15-07-2020,"Schneider Electric USA,  Inc.",Vendor H Corporation,Master Services Agreement,USA,Time & Material (Not-to-exceed),01-07-2019,01-05-2020,NULL,212185
